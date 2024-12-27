@@ -1,11 +1,7 @@
 # 👋 Hello there! I'm Yukenthiran! 👋
 
 <p align="center">
-  <img src="https://github.com/yuke001/yuke001/blob/main/static/banner.png" alt="Banner Image" width="800" />
-</p>
-
-<p align="center">
-    A passionate software developer focused on crafting dynamic web applications and tackling algorithmic challenges.
+  A passionate software developer focused on crafting dynamic web applications and tackling algorithmic challenges.
 </p>
 
 Welcome to my GitHub profile! I'm a software developer dedicated to building dynamic web applications and solving complex algorithmic problems. My journey in tech began with a strong focus on Java, and I've expanded my skills to include frameworks like Spring Boot and Hibernate. Currently, I'm diving into the MERN stack and honing my backend development skills. I love tackling real-world problems with code and sharing my projects to inspire and collaborate with others.
