@@ -1,6 +1,6 @@
 # 👋 Hello there! I'm Yukenthiran! 👋
 
-<p align="center">
+<p>
   A passionate software developer focused on crafting dynamic web applications and tackling algorithmic challenges.
 </p>
 
