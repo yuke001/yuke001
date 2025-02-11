@@ -52,7 +52,6 @@ Here's a look at the technologies I work with:
 
 <br>
 
-
 ### 🧰 Tools & Platforms
 
 <p align="left">
@@ -61,7 +60,6 @@ Here's a look at the technologies I work with:
      <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
 </p>
-
 
 <br>
 
@@ -74,7 +72,6 @@ Here's a look at the technologies I work with:
 
 <br>
 
-
 ### ✨ Other Superpowers
 
 - Problem-solving expert with Java
@@ -84,5 +81,3 @@ Here's a look at the technologies I work with:
 <br>
 
 ---
-
-Feel free to explore my repositories and let's connect! I'm always excited to learn and collaborate.
