@@ -1,83 +1,91 @@
-# 👋 Hello there! I'm Yukenthiran! 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I'm+Yukenthiran!;" />
+</h1>
 
-<p>
-  A passionate software developer focused on crafting dynamic web applications and tackling algorithmic challenges.
-</p>
+<h2 align="center">✨ Full Stack Developer | Java & MERN Stack | Problem Solver ✨</h2>
 
-Welcome to my GitHub profile! I'm a software developer dedicated to building dynamic web applications and solving complex algorithmic problems. My journey in tech began with a strong focus on Java, and I've expanded my skills to include frameworks like Spring Boot and Hibernate. Currently, I'm diving into the MERN stack and honing my backend development skills. I love tackling real-world problems with code and sharing my projects to inspire and collaborate with others.
 
-<br>
-
-I'm committed to continuous learning and growth, always seeking opportunities to enhance my skills and share my knowledge with the community.
-
-<br>
-
-## 🛠️ My Tech Toolkit
-
-Here's a look at the technologies I work with:
-
-<br>
-
-### 💻 Languages
-
-<p align="left">
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java"/>
-    <img src="https://img.shields.io/badge/sql-%23007396.svg?style=for-the-badge&logo=sql&logoColor=white" alt="sql"/>
-     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"/>
-</p>
-
-<br>
-
-### ⚙️ Frameworks
-
-<p align="left">
-     <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="spring"/>
-    <img src="https://img.shields.io/badge/hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" alt="hibernate"/>
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react"/>
-    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="express.js"/>
-</p>
-
-<br>
-
-### 🌐 Web Technologies
-
-<p align="left">
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"/>
-    <img src="https://img.shields.io/badge/Servlets-%230073e6.svg?style=for-the-badge&logo=apache&logoColor=white" alt="servlets"/>
-    <img src="https://img.shields.io/badge/jsp-%230073e6.svg?style=for-the-badge&logo=apache&logoColor=white" alt="jsp"/>
-    <img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="node.js"/>
-</p>
-
-<br>
-
-### 🧰 Tools & Platforms
-
-<p align="left">
-    <img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="eclipse"/>
-    <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="intellijidea"/>
-     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
-   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
-</p>
-
-<br>
-
-### 🗄️ Database
-
-<p align="left">
-    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
-    <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
-</p>
-
-<br>
-
-### ✨ Other Superpowers
-
-- Problem-solving expert with Java
-- String manipulation wizard and sorting algorithm enthusiast
-- REST API development and deployment specialist
-
-<br>
+### 🌟 About Me:
+- 🚀 Passionate about **Full Stack Development**  
+- 🧠 Expertise in **Java & MERN Stack**  
+- 💻 Backend Technologies: **Java | Spring Boot | Hibernate | Node.js | Express.js**  
+- 🎨 Frontend Technologies: **React.js | HTML | CSS | JavaScript**  
+- 🖥️ Web Development: **JSP | Servlets**  
+- 🌍 Version Control: **Git | GitHub**  
+- 📊 Database Management: **MySQL | MongoDB**  
+- 🌱 Learning & Growing Every Day  
 
 ---
+
+  ### ✨ Projects:
+
+- **Job Portal Application:**  
+  A web-based platform that connects job seekers and recruiters. Features include job search, applications, recruiter job postings, profile management, OTP login, and email notifications. Built using Java, Spring Boot, Thymeleaf, MySQL, and Cloudinary API.
+
+- **Employee Management System:**  
+  A full-stack application for managing employee data. Includes CRUD operations, role-based access, and a responsive UI. Built with Java, Spring Boot, React, MySQL, and Bootstrap.
+  
+- **BlogForge 📝:**  
+  A full-stack blog management system with user roles, rich text editing, categories, comments, search, SEO optimization, and analytics. Built using **MERN Stack (MongoDB, Express.js, React, Node.js), Cloudinary, and SendGrid**.
+
+
+  
+
+
+
+---
+
+### 📫 Contact Info:
+- GitHub: [github.com/yuke001](https://github.com/yuke001)  
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/yukenthiran-s-73a278244/)  
+- Portfolio: [Portfolio Link](https://yukenthiran-s.netlify.app/)
+- Email: [yukenthirans2018@gmail.com](mailto:yukenthirans2018@gmail.com)
+
+
+---
+
+### 🛠️ Languages and Tools:
+<p align="center">
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/></a>
+  <a href="https://react.dev" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="60" height="60"/></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60"/></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="60" height="60"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="60" height="60"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="60" height="60"/></a>
+  <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="60" height="60"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/></a>
+</p>
+
+
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=yuke001&show_icons=true&locale=en" alt="yuke001" />
+</p>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yuke001" alt="yuke001" />
+</p>
+
+---
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+</div>
+
+---
+
+<h2>💡 Inspirational Quote</h2>
+<h3>🌟 "The only way to do great work is to love what you do."</h3>
+
+---
+
+
+
+
+
